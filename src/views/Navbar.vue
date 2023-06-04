@@ -1,9 +1,9 @@
 <template>
     <nav class="navbar">
       <ul class="navbar-list">
-        <li class="navbar-item"><a href="/DataDisplay" class="navbar-link">Home</a></li>
-        <li class="navbar-item"><a href="/View" class="navbar-link">About</a></li>
-        <li class="navbar-item"><a href="/Form" class="navbar-link">Contact</a></li>
+        <li class="navbar-item"><a href="/DataDisplay" class="navbar-link">Data View</a></li>
+        <li class="navbar-item"><a href="/View" class="navbar-link">data Json</a></li>
+        <li class="navbar-item"><a href="/Form" class="navbar-link">Form</a></li>
       </ul>
     </nav>
   </template>
